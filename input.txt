@@ -1,0 +1,8 @@
+10
+##start
+A
+B
+##end
+C
+A-B
+B-C
